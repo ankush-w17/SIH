@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url(assets/background-img.jpg);
+}
+.right-body{
+    height: 100vh;
+    width: 40%;
+    position: absolute;
+    right: 0;
+    background-color: #cccccc;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    color: #006400;
+    position: absolute;
+    top: 10rem;
+    
+}
